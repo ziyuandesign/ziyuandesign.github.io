@@ -63,40 +63,40 @@ $(document).ready(function(){
    $(".bp1-hello-im, .bp2-hello-im, .bp3-hello-im, .bp4-hello-im, .bp5-hello-im, .bp6-hello-im").addClass("animated").css({
         'animation-name':'fadeInUp',
         'animation-duration':'1000ms',
-        'animation-delay':'0s',
+        'animation-delay':'0.4s',
    });
 
 
      $(".bp1-zi-yuan, .bp2-zi-yuan, .bp3-zi-yuan, .bp4-zi-yuan, .bp5-zi-yuan, .bp6-zi-yuan").addClass("animated").css({
         'animation-name':'fadeInUp',
         'animation-duration':'1000ms',
-        'animation-delay':'0.6s',
+        'animation-delay':'1s',
    });
 
      $(".bp1-im-a-ux-designer, .bp2-im-a-ux-designer, .bp3-im-a-ux-designer, .bp4-im-a-ux-designer, .bp5-im-a-ux-designer, .bp6-im-a-ux-designer").addClass("animated").css({
         'animation-name':'fadeInUp',
         'animation-duration':'1000ms',
-        'animation-delay':'1.2s',
+        'animation-delay':'1.6s',
    });
 
 
    $(".bp1-btn-view, .bp2-btn-view, .bp3-btn-view, .bp4-btn-view, .bp5-btn-view, .bp6-btn-view").addClass("animated").css({
         'animation-name':'fadeInUp',
         'animation-duration':'1000ms',
-        'animation-delay':'1.2s',
+        'animation-delay':'1.6s',
    });
       
 
   $(".bp1-nav, .bp2-nav, .bp3-nav, .bp4-nav, .bp5-nav, .bp6-nav").addClass("animated").css({
         'animation-name':'fadeInDown',
         'animation-duration':'1000ms',
-        'animation-delay':'2.6s',
+        'animation-delay':'3.0s',
    });
 
    $(".bp1-hand, .bp2-hand, .bp3-hand, .bp4-hand, .bp5-hand, .bp6-hand").addClass("animated").css({
         'animation-name':'fadeInUp',
         'animation-duration':'1000ms',
-        'animation-delay':'2.8s',
+        'animation-delay':'3.2s',
    });
       
 
